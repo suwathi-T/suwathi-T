@@ -52,4 +52,4 @@ View Project Repository →
 
 Aspiring to build a career in Cloud & DevOps Engineering by developing strong technical fundamentals, gaining practical experience and continuously learning modern cloud technologies.
 
-**Learning with purpose. Building with curiosity. Growing through practice.**
+Learning with purpose. Building with curiosity. Growing through practice.
