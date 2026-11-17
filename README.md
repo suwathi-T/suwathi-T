@@ -40,7 +40,7 @@ AWS Serverless Task Manager
 
 A cloud-based task management application developed using AWS services, exploring serverless architecture and application development.
 
-Explore Project → https://github.com/suwathi-T/aws-serverless-task-manager.git
+[Explore Project](https://github.com/suwathi-T/aws-serverless-task-manager)
 
 CURRENT LEARNING
 
