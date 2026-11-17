@@ -37,6 +37,7 @@ My current focus is on strengthening my knowledge of AWS, Linux, Python and auto
 01. AWS Serverless Task Manager
 A cloud-based task management application developed using AWS services, exploring serverless architecture and application development.
 Key Focus Areas: AWS Services · Serverless Architecture · Application Development · Automation
+
 View Project Repository →
 
 𝐂𝐔𝐑𝐑𝐄𝐍𝐓 𝐋𝐄𝐀𝐑𝐍𝐈𝐍𝐆
